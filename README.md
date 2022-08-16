@@ -8,7 +8,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=virus242&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![codewars](https://www.codewars.com/users/ViruS_22/badges/small)](https://www.codewars.com/users/username)
+[![codewars](https://www.codewars.com/users/ViruS_22/badges/large)](https://www.codewars.com/users/username)
 <!--
 **virus242/virus242** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
