@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, i'm <a target="_blank">Vadim</a> 
-![Roscosmos](https://github.com/virus242/virus242/blob/main/roscosmos-logo-main.png)
+![image alt](https://github.com/virus242/virus242/blob/main/roscosmos-logo-main.png)
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&width=435&lines=%E2%84%82%F0%9D%95%A0%F0%9D%95%9E%F0%9D%95%A1%F0%9D%95%A6%F0%9D%95%A5%F0%9D%95%96%F0%9D%95%A3+%F0%9D%95%A4%F0%9D%95%94%F0%9D%95%9A%F0%9D%95%96%F0%9D%95%9F%F0%9D%95%94%F0%9D%95%96+%F0%9D%95%A4%F0%9D%95%A5%F0%9D%95%A6%F0%9D%95%95%F0%9D%95%96%F0%9D%95%9F%F0%9D%95%A5+%F0%9D%95%97%F0%9D%95%A3%F0%9D%95%A0%F0%9D%95%9E+%E2%84%9D%F0%9D%95%A6%F0%9D%95%A4%F0%9D%95%A4%F0%9D%95%9A%F0%9D%95%92+" alt="Typing SVG" /></a>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=virus242&theme=solarized_dark)
