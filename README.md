@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, i'm <a target="_blank">Vadim</a> 
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&pause=1000&color=F70000&width=435&lines=Hi%2C+I'm+a+software+engineer+from+Roscosmos" alt="Typing SVG" /></a>
-<a href="https://github.com"><img src="https://github.com/virus242/virus242/blob/main/roscosmos-logo-main.png" alt="Roscosmos png" /></a>
+<a href="https://github.com"><img src="https://github.com/virus242/virus242/blob/main/roscosmos-logo-main.png" alt="Roscosmos png" width="500" height="300"/></a>
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=virus242&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=virus242&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=virus242&theme=solarized_dark)
